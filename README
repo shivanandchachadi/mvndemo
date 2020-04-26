@@ -1,0 +1,11 @@
+Steps to push code to remote git
+  1.From home folder, created mvndemo folder from git bash
+  2.Created one pom file in notepad++ add the plugins and saved it as pom.xml
+  3.Created src/main/java folder through git bash/or i can write java program in intellij and add those files to git
+  4.Created one java file "Helloworld.java" through git bash
+  5.Then added files to git "staging area"
+  6.Then commited those files with message as "first commit from git bash"
+  7.Created new Repository in git hub.
+  8.Then used git push with link created while creating new repo.
+  
+  
